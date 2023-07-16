@@ -6,3 +6,8 @@ sudo ./dotnet run --project /home/danieldantasdev/RiderProjects/PerfomanceConcat
 
 # Tabela
 ![table](PerfomanceConcatenation.Application/assets/table.png)
+
+# References
+
+- [benchmarkdotnet](https://benchmarkdotnet.org/articles/guides/getting-started.html)
+- [codemag](https://www.codemag.com/Article/2209061/Benchmarking-.NET-6-Applications-Using-BenchmarkDotNet-A-Deep-Dive)
