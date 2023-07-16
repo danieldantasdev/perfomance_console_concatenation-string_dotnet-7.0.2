@@ -1,0 +1,7 @@
+// Validating benchmarks:
+// Benchmark Md5VsSha256.Sha256: DefaultJob
+//    * BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'Md5VsSha256.Sha256: DefaultJob' will not be executed
+
+// Benchmark Md5VsSha256.Md5: DefaultJob
+//    * BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'Md5VsSha256.Md5: DefaultJob' will not be executed
+
