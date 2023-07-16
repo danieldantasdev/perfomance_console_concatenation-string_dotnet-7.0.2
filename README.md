@@ -5,4 +5,4 @@ sudo ./dotnet run --project /home/danieldantasdev/RiderProjects/PerfomanceConcat
 ```
 
 # Tabela
-![table](../PerfomanceConcatenation.Application/PerfomanceConcatenation.Application/assets/table.png)
+![table](PerfomanceConcatenation.Application/assets/table.png)
