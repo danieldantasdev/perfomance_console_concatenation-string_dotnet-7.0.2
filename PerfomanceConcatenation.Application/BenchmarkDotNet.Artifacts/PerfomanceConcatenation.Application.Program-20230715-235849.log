@@ -1,0 +1,29 @@
+// Validating benchmarks:
+// Benchmark Program.StringBuilder: DefaultJob
+//    * Benchmarked method `StringBuilder` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
+// Benchmark Program.StringBuilderExact24: DefaultJob
+//    * Benchmarked method `StringBuilderExact24` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
+// Benchmark Program.StringBuilderEstimate100: DefaultJob
+//    * Benchmarked method `StringBuilderEstimate100` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
+// Benchmark Program.StringPlus: DefaultJob
+//    * Benchmarked method `StringPlus` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
+// Benchmark Program.StringFormat: DefaultJob
+//    * Benchmarked method `StringFormat` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
+// Benchmark Program.StringInterpolation: DefaultJob
+//    * Benchmarked method `StringInterpolation` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
+// Benchmark Program.StringJoin: DefaultJob
+//    * Benchmarked method `StringJoin` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
+// Benchmark Program.StringConcat: DefaultJob
+//    * Benchmarked method `StringConcat` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
+//    * Assembly PerfomanceConcatenation.Application which defines benchmarks is non-optimized
+Benchmark was built without optimization enabled (most probably a DEBUG configuration). Please, build it in RELEASE.
+If you want to debug the benchmarks, please see https://benchmarkdotnet.org/articles/guides/troubleshooting.html#debugging-benchmarks.
+
